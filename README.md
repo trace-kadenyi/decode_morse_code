@@ -8,12 +8,18 @@
 - Languages: Ruby
 
 ## Getting started
+To get a local copy of this exercice, Please follow these simple example steps.
 
-#### Clone this repository
+#### 1. Clone this repository or download the Zip folder:"
 
-```bash
+```bash command
 $ git clone https://github.com/TracK92/decode_morse_code.git
 ```
+#### 2. Navigate to the location of the folder in your machine:
+```bash command
+you@your-Pc-name:~$ cd <folder>
+```
+#### 3. Press Enter to navigate to your local clone.
 
 ## Authors
 
@@ -22,7 +28,9 @@ $ git clone https://github.com/TracK92/decode_morse_code.git
 - GitHub: [@TracK92](https://github.com/TracK92)
 - LinkedIn: [Tracey Kadenyi](https://www.linkedin.com/in/tracey-kadenyi/)
 
-👤
+👤 **Ushindi Bienvenu
+- GitHub: [@usbbush](https://github.com/bienvenuushindi)
+- LinkedIn: [@usbbush](https://www.linkedin.com/in/usbbush/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
