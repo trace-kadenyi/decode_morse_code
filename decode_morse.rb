@@ -17,7 +17,8 @@ end
 
 # split word and decode each character
 def decode_word(word)
-  word.split(' ').map { |char| decode_morse(char) }.join
+  pattern = ' '
+  word.split(pattern).map { |char| decode_morse(char) }.join('')
 end
 
 # split sentence and decode each word
